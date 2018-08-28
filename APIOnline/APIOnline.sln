@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27924.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIOnline", "APIOnline\APIOnline.csproj", "{49680054-7DBA-4AE2-B60B-72547E05419B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIOnline.Tests", "APIOnline.Tests\APIOnline.Tests.csproj", "{6824E3CF-10D5-426F-9F7C-092E5F6798D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49680054-7DBA-4AE2-B60B-72547E05419B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49680054-7DBA-4AE2-B60B-72547E05419B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49680054-7DBA-4AE2-B60B-72547E05419B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49680054-7DBA-4AE2-B60B-72547E05419B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6824E3CF-10D5-426F-9F7C-092E5F6798D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6824E3CF-10D5-426F-9F7C-092E5F6798D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6824E3CF-10D5-426F-9F7C-092E5F6798D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6824E3CF-10D5-426F-9F7C-092E5F6798D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {068C0442-E8EA-4404-815D-4BFF69259F5D}
+	EndGlobalSection
+EndGlobal
